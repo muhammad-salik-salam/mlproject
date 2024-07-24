@@ -1,4 +1,5 @@
-## End to End MAchine Learning Project
+## End to End Machine Learning Project
+### Student Performance Data
 
 ### Docker Setup In EC2 commands to be Executed
 
@@ -33,7 +34,7 @@ AWS_ACCESS_KEY_ID=
 
 AWS_SECRET_ACCESS_KEY=
 
-AWS_REGION = us-east-1
+AWS_REGION = 
 
 AWS_ECR_LOGIN_URI = 
 
