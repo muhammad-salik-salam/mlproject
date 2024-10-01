@@ -1,4 +1,3 @@
-## End to End Machine Learning Project
 ### Student Performance Data
 
 ### Docker Setup In EC2 commands to be Executed
